@@ -1,5 +1,6 @@
-### Hola [AGCG1991] [website] aqui👋
+### Hi [Aitor´ code][website] here 👋
 
+[![Twitter Follow](https://img.shields.io/twitter/follow/NavisCode?color=1DA1F2&label=SrAitormenta&logo=twitter&style=for-the-badge)](https://twitter.com/SrAitormenta)
 
 
 Here are some ideas to get you started:
@@ -12,7 +13,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+<!-- LINKS -->
 
-<!--LINKS>
-[website]: https://enlacePAGINAWEB.com
-
+[website]: https://ejemploweb.com
