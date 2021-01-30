@@ -1,7 +1,6 @@
-### Hi there 👋
+### Hola [Aitor´s Code] [website] aqui👋
 
 
-**AGCG1991/AGCG1991** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
