@@ -5,9 +5,9 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on personal project
-- 🌱 I’m currently learning Html,Javascript,css-flexbox and Bootstrap
-- 👯 I’m looking to collaborate on ...
+- 🔭 Actualmente estoy aprendiendo React JS
+- 🌱 Además estoy afianzando mis conocimientos sobre HTML,CSS,JS,css-flexbox y bootstrap
+- 👯 Estoy colaborando con un compañero en un proyecto web con su versión APP android.
 
 ---
 ### 🚀 Coding
