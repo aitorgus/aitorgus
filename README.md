@@ -3,7 +3,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/AitorGustavo?color=1DA1F2&label=AitorGustavo&logo=twitter&style=for-the-badge)](https://twitter.com/AitorGustavo)
 
 
-Here are some ideas to get you started:
+
 
 - 🔭 Actualmente estoy aprendiendo React JS
 - 🌱 Además estoy afianzando mis conocimientos sobre HTML,CSS,JS,css-flexbox y bootstrap
