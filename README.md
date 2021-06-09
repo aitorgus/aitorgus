@@ -1,7 +1,5 @@
 ### Hi [Aitor´ code][website] here 👋
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/AitorGustavo?color=1DA1F2&label=AitorGustavo&logo=twitter&style=for-the-badge)](https://twitter.com/AitorGustavo)
-
 
 
 
