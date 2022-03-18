@@ -1,9 +1,9 @@
-### Hi [Aitor´ code][https://agcg1991.github.io/] here 👋
+### Hello there! 👋
 
+My name is Aitor Camacho, Frontend Developer and sysadmin .
 
-- 🔭 Actualmente estoy aprendiendo React JS
-- 🌱 Además estoy afianzando mis conocimientos sobre HTML,CSS,JS,css-flexbox y bootstrap
-
+- 🔭 I’m currently learning Javascript and React.js
+- ⚡ More about me: I love learning new things, workout , reading, and video games. 
 
 ---.
 ### 🚀 Coding
@@ -17,4 +17,4 @@
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <!-- LINKS -->
 
-[website]: https://github.com/AGCG1991
+[website]: https://agcg1991.github.io/
