@@ -1,11 +1,11 @@
-### Hi [Aitor´ code][website] here 👋
+### Hi [Aitor´ code][https://agcg1991.github.io/] here 👋
 
 
 - 🔭 Actualmente estoy aprendiendo React JS
 - 🌱 Además estoy afianzando mis conocimientos sobre HTML,CSS,JS,css-flexbox y bootstrap
 
 
----
+---.
 ### 🚀 Coding
 
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
