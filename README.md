@@ -7,24 +7,30 @@ I´m a Computer Engineer and Frontend Developer, living and coding in Málaga, S
 
 ## I'm familiar with...
 + JavaScript 
-+ 
-+ ReactJs <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-
-
++ ReactJs
 + NodeJs
 + SQL (MySQL)
 + Firebase 
-+ HTML5 & CSS3  <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /> <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-
++ HTML5 & CSS3  
 + Version-Control w/ GIT & GitHub & GitLab
 + REST architecture & RESTful APIs
 + Linux environment
-### 🚀 Coding
 
+## I'm defined by my...
 
++ Organization
++ Detail-orientation
++ Learning autonomy
++ Ability to work under pressure
++ Communication skills
++ Flexibility
++ Teamwork abilities
 
-
-
-<!-- LINKS -->
-
+## If you want to get in touch...
+📩 My email: aitor.gustavo@gmail.com
+🔭 My [LinkedIn] : https://www.linkedin.com/in/aitorgustavocamacho/
 [website]: https://agcg1991.github.io/
+
+
+
+
