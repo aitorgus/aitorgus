@@ -1,8 +1,7 @@
-### Hello there! 👋
+### Hello there!, I´m Aitor 👋
 
-My name is Aitor Camacho, Frontend Developer and sysadmin .
-
-- 🔭 I’m currently learning Javascript and React.js
+- 👨🏻‍💻 Computer Engineer.Frontend Developer .
+- 🔭 I’m currently learning Javascript and React.
 - ⚡ More about me: I love learning new things, workout , reading, and video games. 
 
 ### 🚀 Coding
