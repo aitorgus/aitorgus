@@ -28,7 +28,7 @@ I´m a Computer Engineer and Frontend Developer, living and coding in Málaga, S
 
 ## If you want to get in touch...
 
-📩 My email: aitor.gustavo@gmail.com
+📩 My email: aitor_gustavo@hotmail.com
 
 🔭 My [LinkedIn] : https://www.linkedin.com/in/aitorgustavocamacho/
 
