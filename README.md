@@ -35,6 +35,6 @@ I´m a Computer Engineer and Frontend Developer, living and coding in Málaga, S
  [website]: https://agcg1991.github.io/
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AGCG1991)](https://github.com/AGCG1991/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AGCG1991&layout=compact)](https://github.com/AGCG1991/github-readme-stats)
 
 
