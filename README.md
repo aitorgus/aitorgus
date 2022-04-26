@@ -36,5 +36,5 @@ I´m a Computer Engineer and Frontend Developer, living and coding in Málaga, S
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AGCG1991)](https://github.com/AGCG1991/github-readme-stats)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AGCG1991&count_private=true)
 
