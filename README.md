@@ -8,9 +8,6 @@ I´m a Computer Engineer and Frontend Developer, living and coding in Málaga, S
 ## I'm familiar with...
 + JavaScript 
 + ReactJs
-+ NodeJs
-+ SQL (MySQL)
-+ Firebase 
 + HTML5 & CSS3  
 + Version-Control w/ GIT & GitHub & GitLab
 + REST architecture & RESTful APIs
