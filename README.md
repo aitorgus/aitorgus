@@ -37,10 +37,10 @@ I´m a Computer Engineer and Frontend Developer, living and coding in Málaga, S
 
 | REPOSITORY| LINK |
 | ----- | ---- |
-| https://github.com/AGCG1991/crud-simple | https://agcg1991.github.io/crud-simple/|
-| https://github.com/AGCG1991/citas-react | https://agcg1991.github.io/citas-react/|
-| https://github.com/AGCG1991/control-gastos | https://agcg1991.github.io/control-gastos/|
-| https://github.com/AGCG1991/criptos-react | https://agcg1991.github.io/criptos-react/|
-| https://github.com/AGCG1991/crm-react | https://agcg1991.github.io/crm-react/|
+| https://github.com/AGCG1991/crud-simple | https://aitorgus.github.io/crud-simple/|
+| https://github.com/AGCG1991/citas-react | https://aitorgus.github.io/citas-react/|
+| https://github.com/AGCG1991/control-gastos | https://aitorgus.github.io/control-gastos/|
+| https://github.com/AGCG1991/criptos-react | https://aitorgus.github.io/criptos-react/|
+| https://github.com/AGCG1991/crm-react | https://aitorgus.github.io/crm-react/|
 |https://github.com/AGCG1991/guitarla_next | https://github.com/AGCG1991/guitarla_next/blob/main/README.md |
 
