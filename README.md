@@ -9,7 +9,7 @@ I´m a Computer Engineer and Frontend Developer, living and coding in Málaga, S
 + JavaScript 
 + ReactJs
 + HTML5 & CSS3  
-+ Version-Control w/ GIT & GitHub & GitLab
++ Version-Control - GIT & GitHub & GitLab
 + REST architecture & RESTful APIs
 + Linux environment
 
