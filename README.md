@@ -29,10 +29,10 @@ I´m a Computer Engineer and Frontend Developer, living and coding in Málaga, S
 
 🔭 My [LinkedIn] : https://www.linkedin.com/in/aitorgustavocamacho/
 
- [website]: https://agcg1991.github.io/
+ [website]: https://aitorgus.github.io/
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AGCG1991&layout=compact)](https://github.com/AGCG1991/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aitorgus&layout=compact)](https://github.com/AGCG1991/github-readme-stats)
 
 
 | REPOSITORY| LINK |
