@@ -42,5 +42,5 @@ I´m a Computer Engineer and Frontend Developer, living and coding in Málaga, S
 | https://github.com/aitorgus/control-gastos | https://aitorgus.github.io/control-gastos/|
 | https://github.com/aitorgus/criptos-react | https://aitorgus.github.io/criptos-react/|
 | https://github.com/aitorgus/crm-react | https://aitorgus.github.io/crm-react/|
-|https://github.com/aitorgus/guitarla_next | https://github.com/AGCG1991/guitarla_next/blob/main/README.md |
+|https://github.com/aitorgus/guitarla_next | https://github.com/aitorgus/guitarla_next/blob/main/README.md |
 
