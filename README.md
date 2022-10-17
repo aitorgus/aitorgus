@@ -1,9 +1,9 @@
 # Welcome to my personal GitHub account 🤗
 
-My name is Aitor Camacho and I´m front end developer 👋
+My name is Aitor  👋
 
 ## About me
-I´m a Computer Engineer and Frontend Developer, living and coding in Málaga, Spain. I’m currently learning Javascript and React. I love learning new things, workout , reading, and video games. 
+I´m a Computer Engineer , living and coding in Málaga, Spain. I’m currently learning Javascript and React, in addition toI am in the process of getting certified in "Azure Solutions Architect Expert" and AWS Cloud Practitioner . I love learning new things, workout , reading, and video games. 
 
 ## I'm familiar with...
 + JavaScript 
@@ -12,6 +12,9 @@ I´m a Computer Engineer and Frontend Developer, living and coding in Málaga, S
 + Version-Control - GIT & GitHub & GitLab
 + REST architecture & RESTful APIs
 + Linux environment
++ Powershell
++ Azure 
++ AWS
 
 ## I'm defined by my...
 
@@ -32,15 +35,4 @@ I´m a Computer Engineer and Frontend Developer, living and coding in Málaga, S
  [website]: https://aitorgus.github.io/
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aitorgus&layout=compact)](https://github.com/AGCG1991/github-readme-stats)
-
-
-| REPOSITORY| LINK |
-| ----- | ---- |
-| https://github.com/aitorgus/crud-simple | https://aitorgus.github.io/crud-simple/|
-| https://github.com/aitorgus/citas-react | https://aitorgus.github.io/citas-react/|
-| https://github.com/aitorgus/control-gastos | https://aitorgus.github.io/control-gastos/|
-| https://github.com/aitorgus/criptos-react | https://aitorgus.github.io/criptos-react/|
-| https://github.com/aitorgus/crm-react | https://aitorgus.github.io/crm-react/|
-|https://github.com/aitorgus/guitarla_next | https://github.com/aitorgus/guitarla_next/blob/main/README.md |
 
