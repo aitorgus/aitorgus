@@ -26,13 +26,8 @@ I´m a Computer Engineer , living and coding in Málaga, Spain. I’m currently 
 + Flexibility
 + Teamwork abilities
 
-## If you want to get in touch...
 
-📩 My email: aitor_gustavo@hotmail.com
 
-🔭 My [LinkedIn] : https://www.linkedin.com/in/aitorgustavocamacho/
-
- [website]: https://aitorgus.github.io/
-
+ 
 
 
